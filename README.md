@@ -1,2 +1,5 @@
-# automatic-test-correction
-Automatic test correction implemented in Haskell
+# Corrección automática de tests.
+
+Corrector automático de tests multirrespuesta desarrollado en Haskell.
+
+
